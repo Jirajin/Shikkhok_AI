@@ -2,6 +2,8 @@
 
 Shikkhok (Bengali for "education") is an AI agent designed to revolutionize education by personalizing the learning experience for each student. 
 
+## Currently unavailable due to personal reasons - next version will be available in a month.
+
 **Empowering Individual Growth:**
 
 Shikkhok leverages AI to analyze student data, including learning styles, strengths, weaknesses, and progress. Based on this analysis, Shikkhok tailors the educational journey for each student in the following ways:
